@@ -1,4 +1,7 @@
 # abiino is a arduino compatible diy board which fits into a breadboard
+
+<img src="/photo4.jpg"></img>
+          
 <p>abiino is inspired by <a href="https://www.adafruit.com/product/72">DC Boarduino</a> But unlike DC Boarduino abiino is designed as a single sided pcb for easy toner transfer and etching like most diy boards. </p>
 <p>And unlike boarduino abiino has a 3.3v linear voltage regulator on board. Unfortunately on board linear voltage regulator S111733PI is not pin compatible with LM78XX so if you want to use abiino with 5v supply with a 7805 you need to change the layout a bit.
 <p>Another difference easily seen is abiino does not have an icsp connector. On a single sided pcb making it is as compact as possible is already  challenge enough and i did not want make it any bulkier. Bootloader can be programmed after putting abiino on a breadboard. </p>
