@@ -9,4 +9,7 @@
 <p>An important issue to note is soldering breadboard headers in reverse side -although not impossible- is a bit challenging so if you want to build abiino keep that in mind.
 <p>And lastly why abiino, abi (short for agabey) in turkish means elder brother. I designed this board for my little brother so it is abiino.
 
+PCB Layout <img src="/pcb.png"></img>
+Schematic <img src="/schematic.png"></img>
+
 
